@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+streamlit
+groq
+langchain-groq
+langchain-core
+python-dotenv
+joblib

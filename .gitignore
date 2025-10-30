@@ -1,0 +1,86 @@
+# ===========================================
+# 🧠 Project-8 Spam Email Classifier
+# Python + Streamlit + Groq + LangChain
+# ===========================================
+
+# 🧱 Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# 🧪 Virtual environments
+venv/
+.env/
+env/
+.venv/
+
+# 🗄️ Environment variables
+*.env
+.env.local
+secrets.json
+
+# 🤖 Model and embeddings
+model/*.pkl
+model/*.bin
+model/*.pt
+model/*.h5
+model/bert_embedder.pkl
+vector_index/
+faiss_index/
+*.npy
+
+# 🧾 Datasets
+data/*.csv
+data/*.tsv
+data/*.json
+*.xlsx
+
+# 🖼️ Cache and temp
+.DS_Store
+.ipynb_checkpoints/
+*.swp
+*.tmp
+*.bak
+*.old
+.cache/
+__MACOSX/
+logs/
+outputs/
+temp/
+
+# 🧰 IDE and editor configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ⚙️ Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# 🔐 API keys or credentials
+apikey.txt
+config.json
+
+# 📦 Build & dist
+build/
+dist/
+*.egg-info/
+*.spec
+
+# 🧠 Hugging Face cache
+~/.cache/huggingface/
+huggingface_cache/
+transformers_cache/
+
+# ⚙️ FAISS / vector stores
+index.faiss
+*.faiss
+*.pkl
+
+# 🚀 OS-specific files
+Thumbs.db
+desktop.ini
